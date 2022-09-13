@@ -33,4 +33,4 @@ if(x == y){
     console.log('they are not same');//ans
 }
 
-// dekhte same hoilew same output hocchy na
+// dekhte same hoilew same output hocchy na and object and array check korle loop or other kisu implement kore ckeck korte hobe.
